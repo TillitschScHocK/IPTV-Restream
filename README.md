@@ -30,6 +30,10 @@ Clone the repository:
 git clone https://github.com/TillitschScHocK/IPTV-Restream
 ````
 
+```bash
+cd IPTV-Restream
+````
+
 Make sure **Docker** is running and start the service with:
 
 ```bash
