@@ -1,0 +1,65 @@
+[
+  {
+    "datum": "Freitag, 26. September",
+    "kickoff": "20:30",
+    "heim": "FC Bayern München",
+    "auswaerts": "Werder Bremen",
+    "senderinfo": "ab 20:15 Uhr live auf Sky Bundesliga UHD"
+  },
+  {
+    "datum": "Samstag, 27. September",
+    "kickoff": "15:30",
+    "heim": "1. FSV Mainz 05",
+    "auswaerts": "Borussia Dortmund",
+    "senderinfo": "ab 15:15 Uhr live auf Sky Bundesliga 1"
+  },
+  {
+    "datum": "Samstag, 27. September",
+    "kickoff": "15:30",
+    "heim": "FC St. Pauli",
+    "auswaerts": "Bayer 04 Leverkusen",
+    "senderinfo": "ab 15:15 Uhr live auf Sky Bundesliga 2"
+  },
+  {
+    "datum": "Samstag, 27. September",
+    "kickoff": "15:30",
+    "heim": "VfL Wolfsburg",
+    "auswaerts": "RB Leipzig",
+    "senderinfo": "ab 15:15 Uhr live auf Sky Bundesliga 3"
+  },
+  {
+    "datum": "Samstag, 27. September",
+    "kickoff": "15:30",
+    "heim": "1. FC Heidenheim",
+    "auswaerts": "FC Augsburg",
+    "senderinfo": "ab 15:15 Uhr live auf Sky Bundesliga 4"
+  },
+  {
+    "datum": "Samstag, 27. September",
+    "kickoff": "18:30",
+    "heim": "Borussia Mönchengladbach",
+    "auswaerts": "Eintracht Frankfurt",
+    "senderinfo": "ab 17:30 Uhr live auf Sky Sport Top Event"
+  },
+  {
+    "datum": "Sonntag, 28. September",
+    "kickoff": "15:30",
+    "heim": "SC Freiburg",
+    "auswaerts": "TSG Hoffenheim",
+    "senderinfo": "ab 17:30 Uhr Re-Live auf Sky Bundesliga 2"
+  },
+  {
+    "datum": "Sonntag, 28. September",
+    "kickoff": "17:30",
+    "heim": "1. FC Köln",
+    "auswaerts": "VfB Stuttgart",
+    "senderinfo": "ab 19:30 Uhr Re-Live auf Sky Bundesliga 2"
+  },
+  {
+    "datum": "Sonntag, 28. September",
+    "kickoff": "19:30",
+    "heim": "1. FC Union Berlin",
+    "auswaerts": "Hamburger SV",
+    "senderinfo": "ab 21:30 Uhr Re-Live auf Sky Bundesliga 2"
+  }
+]
