@@ -74,6 +74,16 @@ You can choose between **three playback modes** depending on your needs:
 
 ---
 
+## 📱 Preview
+
+### 💻 Browser Application
+![Browser Preview](images/BrowserApplication.png)
+
+### 📲 Mobile Application
+![Mobile Preview](images/MobileApplication.png)
+
+---
+
 ## ❓ FAQ & Common Issues
 
 ### 👉 Which streaming mode should I use?
